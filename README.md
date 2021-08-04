@@ -1,12 +1,12 @@
-<h4> Oii! 👋 </h4> <div  align="left"> 
-<h4> Eu sou Guilherme Veiga <a href="https://emoji.gg/emoji/9222-litwick-thumbsup"><img src="https://emoji.gg/assets/emoji/9222-litwick-thumbsup.png" width="38px"  alt="hii"> </a> <h4>  </div>
+<h4> Oii, eu sou o Guilherme <a href="https://emoji.gg/emoji/9222-litwick-thumbsup"><img src="https://emoji.gg/assets/emoji/9222-litwick-thumbsup.png" width="30px"  alt="hii"> </a> </h4> <div  align="left"> 
+</div>
 
 ##
-<div align="center"> <h1> Seja muito bem-vindo ao meu GitHub 😀 </h1> </div>
+<div align="center"> <h1> Seja muito bem-vindo ao meu GitHub <img src="https://emoji.gg/assets/emoji/1245_RobotFace.gif?t=1628116940" </h1> </div>
   
 <img align="right"  width="49%" src="https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a6248006e748ddd6b67.jpg">
 
-  <li> 💻 Atualmente estou estando Front-end </li>
+  <li> 💻 Atualmente estou estudando Front-end </li>
   <li> 📚 Estou aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, 𝖧𝖳𝖬𝖫 e 𝖢𝖲𝖲
   <li> 😄 Pronomes: Ele/Dele
   
