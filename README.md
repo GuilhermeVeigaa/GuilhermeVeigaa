@@ -7,7 +7,7 @@
 <img align="right"  width="49%" src="https://cdn.dribbble.com/users/1068771/screenshots/14247776/media/fbf5f8ae629e3a6248006e748ddd6b67.jpg">
 
   <li> 💻 Atualmente estou estudando Front-end </li>
-  <li> 📚 Estou aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, 𝖧𝖳𝖬𝖫 e 𝖢𝖲𝖲
+  <li> 📚 Estou aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍, 𝖧𝖳𝖬𝖫, 𝖢𝖲𝖲 e REACT
   <li> 😄 Pronomes: Ele/Dele
   
   #
