@@ -19,7 +19,8 @@
      <img align="center" alt="CSS" height=40" width"50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
      <img align="center" alt="PY" height=40" width"50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="GH" height=40" width"50 src="https://emoji.gg/assets/emoji/3716-blurple-github.png">
-     <img align="center" alt="VS" height=40" width"50 src="https://emoji.gg/assets/emoji/2422-visual-studio-code.png"> 
+     <img align="center" alt="VS" height=40" width"50 src="https://emoji.gg/assets/emoji/2422-visual-studio-code.png">
+     <img align="center" alt="React" height=40" width"50 src="https://cdn3.emoji.gg/emojis/3203-reactjs.png"> 
      
   </div>
   
